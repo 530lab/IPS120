@@ -1,6 +1,6 @@
 # TODO
 
-1) sometimes responds from the IPS120 mixes assignments of the magnetic field ans status values with eachothers: like output_field = self.ips120.query_status() or status = self.ips120.get_output_field(). Especially this happens when the regime is changed from clamped to hold right after the ips120 power supply is switched on and the program is used.
+1) sometimes responds from the IPS120 mix assignments of the magnetic field and status values with each others: like output_field = self.ips120.query_status() or status = self.ips120.get_output_field(). Especially that happens when the regime is changed from clamped to hold right after the ips120 power supply is switched on and the program is used.
 
 SOLVED! 
 
